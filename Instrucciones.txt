@@ -1,0 +1,28 @@
+Abrir Botonera:
+-Abrir Botonera.exe
+
+
+Agregar Boton:
+-Apretar boton "Agregar Boton", ponerle Nombre y seleccionar un archivo .mp3 (se copia solo a la carpeta del programa)
+-Opcional, agregar descripcion o una foto (se copia solo a la carpeta del programa)
+
+
+Modificar Boton:
+-Apretar boton "Modificar Botones"
+-Elegir boton a modificar y guardar los cambios
+
+
+Eliminar Boton:
+-Apretar boton "Modificar Botones"
+-Elegir boton a eliminar, apretar boton para restaudar los valores predeterminarlos 
+-Guardarlo asi, el boton se eliminara automaticamente
+
+
+Actualizar Botones:
+-En la pantalla principal apretar el boton "Actualizar Botones"
+
+
+Aparte:
+-El boton "Menu" no hace nada
+-En Config se guarda la configuracion de los botones, en caso de no tenerlo el programa te avisa,
+abre igual pero sin botones y se pueden agregar desde cero lo que creara el archivo Config
